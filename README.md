@@ -1,3 +1,3 @@
-Projeto Todo
+<h1> To-do com Javascript (Salvando no localStorage)</h1>
 
-Realizado como exercício de curso Gostack (Rocktseat)
+<b>Realizado como exercício de curso Gostack (Rocktseat)</b>
